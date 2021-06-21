@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeberComic", "DeberComic.csproj", "{B60A1FE9-CB87-40F4-9FDD-D77E68D841C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autores", "..\autores\autores.csproj", "{D3DAA777-9C91-4086-A262-2748D5B41DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60A1FE9-CB87-40F4-9FDD-D77E68D841C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60A1FE9-CB87-40F4-9FDD-D77E68D841C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60A1FE9-CB87-40F4-9FDD-D77E68D841C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60A1FE9-CB87-40F4-9FDD-D77E68D841C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3DAA777-9C91-4086-A262-2748D5B41DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DAA777-9C91-4086-A262-2748D5B41DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DAA777-9C91-4086-A262-2748D5B41DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DAA777-9C91-4086-A262-2748D5B41DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA985C26-6B28-453B-8648-7A7DBC878E88}
+	EndGlobalSection
+EndGlobal
